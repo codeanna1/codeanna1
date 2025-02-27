@@ -1,5 +1,5 @@
 
-<img src="https://private-user-images.githubusercontent.com/146130391/375169117-9746c319-70a5-4d5b-9a50-db7ad170ba87.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA1OTc2MDAsIm5iZiI6MTc0MDU5NzMwMCwicGF0aCI6Ii8xNDYxMzAzOTEvMzc1MTY5MTE3LTk3NDZjMzE5LTcwYTUtNGQ1Yi05YTUwLWRiN2FkMTcwYmE4Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyNlQxOTE1MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYWJmMzgyYjRjY2Q2MzA5ZWM4MzJjMmRjYmRhODlmMmU5MWE3Y2VmNTA0NjIyMzZhNjVmOTM1MTRiYThjYzJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OoUb8F1-rg0Dn_kLpVWvLEpazT_kBlixuhVy36Hex-0" alt="GitHub" style="max-width: 100%;">
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/6861822-Len-Bass-Quote-Quality-is-not-an-act-it-is-a-habit-Aristotle.jpg" alt="GitHub" width="10000" height="500">
 
 
 <h1 class="heading-element" dir="auto"> Hi, I'm Anna! 👋 </h1>
